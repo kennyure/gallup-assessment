@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# Backend uploads (generated at runtime)
+document-extractor-api/uploads/
+
+# Node / Next.js
+document-extractor/node_modules/
+document-extractor/.next/
+document-extractor/.vercel/
+document-extractor/.turbo/
+document-extractor/out/
+document-extractor/coverage/
+document-extractor/npm-debug.log*
+document-extractor/yarn-error.log*
+document-extractor/pnpm-debug.log*
+
+# TypeScript build info
+document-extractor/tsconfig.tsbuildinfo

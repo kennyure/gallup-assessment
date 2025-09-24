@@ -1,0 +1,11 @@
+The Gallup Assessment, will help us learn more about your strengths and how they align with our team and culture, and can be completed online. Please look out for an email from Gallup with instructions on how to complete the assessment.
+The Case Study, is designed to better understand your approach to problem solving, strategic thinking, and highlight your technical abilities.
+
+Instruction:
+Attached is a dataset common to the data our Customer Intelligence team often works with. Complete the following:
+Build a document extraction app: Use a React/Next.js front end and a Flask-based back end. The app should allow users to upload a document (e.g., an invoice) and process it to extract key information using an LLM API of your choice.
+To demonstrate AI capabilities, please create several examples of sales invoices with different templates, or use the attached invoice if you prefer. Be prepared to demonstrate by uploading these invoices to the app and show the differences between invoices. Feel free to let the Excel file act as a database or create your own database within the app. The data found in the invoice should mimic what you see in SalesOrderDetail and SalesOrderHeader. The functionality will be shown live, with before and after data extraction demonstrated in the database.
+Extract and display structured data: Present the extracted information in a clean, user-friendly UI. The interface should support viewing, editing key metadata fields, and saving the results to a database.
+Ensure real-time interaction: The document processing and UI update should occur seamlessly and quickly. Be prepared to demonstrate this functionality live.
+Discuss scaling strategies: Share how you would evolve the solution to handle higher volume, additional document types, or production-scale deployment if given more time.
+Please send your completed case study to myself and Farhana (copied on this email) by the end of the day on September 26, 2025.

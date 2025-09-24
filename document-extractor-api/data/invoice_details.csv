@@ -1,0 +1,10 @@
+id,invoice_id,item_number,description,quantity,unit_price,line_total,created_at
+
+1,123-456,[23423423],Product XYZ,15,150.0,2250.0,2023-10-11T18:40:00+00:00
+2,123-456,[45645645],Product ABC,1,75.0,75.0,2023-10-11T18:40:00+00:00
+1,1475,6545875,Chuck Leather All Star Low (Variation: 1488641),1,45.0,45.0,2023-10-10T00:00:00+00:00
+2,1475,6548465,"Reactive Infinity Runner (Variation: 1488580, Colour: Black / White, Style: Runner)",1,65.0,65.0,2023-10-10T00:00:00+00:00
+1,123-456,[23423423],Product XYZ,15,150.0,2250.0,2023-10-11T18:42:00+00:00
+2,123-456,[45645645],Product ABC,1,75.0,75.0,2023-10-11T18:42:00+00:00
+1,05-1475,6545875,Chuck Leather All Star Low - Variation: 1488641,1,45.0,45.0,2023-10-11T18:25:00+00:00
+2,05-1475,6548465,"Reactive Infinity Runner - Variation: 1488580, Colour: Black / White, Style: Runner",1,65.0,65.0,2023-10-11T18:25:00+00:00
